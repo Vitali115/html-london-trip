@@ -1,3 +1,47 @@
+
+/* Generals */
 body{
+background-color: black;
+color: white;
+font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  width: 20%;
+  height: auto;
+}
+
+hr {
+  border: 2px solid rgb(49, 49, 49);
+  border-radius: 5px;
+}
+
+/* Class */
+.img1 {
+  width: 3%;
+  height: auto;
 
 }
+
+/* da finire------- 
+
+      h1{    
+      }
+      header{
+      }
+      h2{
+      }
+      h1 {
+      }
+      .Spese{
+      }
+      .daFare{
+      }
+      .Info{
+      }
+      .leFoto{ 
+      }
+      table{ 
+      }
+
+      --------------- */
