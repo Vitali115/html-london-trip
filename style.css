@@ -9,6 +9,7 @@ font-family: 'Montserrat', sans-serif;
 img {
   width: 32%;
   height: auto;
+  border-radius: 18px;
 }
 
 hr {
